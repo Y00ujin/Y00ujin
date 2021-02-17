@@ -1,7 +1,7 @@
 
 # KIMYOUJIN
 
-> 🍎 IOS App Developer
+> ![애플 로고](https://blog.kakaocdn.net/dn/uqJpZ/btqyenBIIXx/mh1Cc5F023UGpfQTFBdqV0/img.jpg) IOS App Developer
 
 
 
