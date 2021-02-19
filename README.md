@@ -15,7 +15,11 @@
         src="http://img.shields.io/badge/-Ios-000000?style=flat&logo=Apple&link=https://developer.apple.com/kr/swift/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
-
+<a href="https://www.apple.com/kr/ios/ios-14/">
+    <img 
+        src="http://img.shields.io/badge/-Figma-1877F2?style=flat&logo=Figma&link=https://developer.apple.com/kr/swift/"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
 
 > **IOS App Developer**
 
