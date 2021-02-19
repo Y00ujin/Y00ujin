@@ -12,7 +12,7 @@
 </a>
 <a href="https://www.apple.com/kr/ios/ios-14/">
     <img 
-        src="http://img.shields.io/badge/-Ios-ff69b4?style=flat&logo=Apple&link=https://developer.apple.com/kr/swift/"
+        src="http://img.shields.io/badge/-Ios-E8E8E8?style=flat&logo=Apple&link=https://developer.apple.com/kr/swift/"
         style="height : auto; margin-left : 10px; margin-right : 30px;"/>
 </a>
 
