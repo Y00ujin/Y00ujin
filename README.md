@@ -15,3 +15,15 @@
         src="http://img.shields.io/badge/-Ios-000000?style=flat&logo=Apple&link=https://developer.apple.com/kr/swift/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
+
+# 🙆🏻‍♀️ Contact Me
+<a href="https://www.instagram.com/yooooouujin/">
+    <img 
+        src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://www.instagram.com/yooooouujin/"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
+<a href="https://www.facebook.com/profile.php?id=100013386198499">
+    <img 
+        src="http://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=Facebook&link=https://www.facebook.com/profile.php?id=100013386198499"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
