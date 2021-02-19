@@ -5,16 +5,17 @@
 - ✌🏻 I belong to Gwangju Software Meister High School
 
 # 👩🏻‍💻 Main Stacks
-<a href="https://instagram.com/alpox.dev">
+<a href="https://developer.apple.com/kr/swift/">
     <img 
-        src="http://img.shields.io/badge/-Swift-FFFFFF?style=flat&logo=Swift&link=https://developer.apple.com/kr/swift/"
+        src="http://img.shields.io/badge/-Swift-FA7343?style=flat&logo=Swift&link=https://developer.apple.com/kr/swift/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
-<a href="https://instagram.com/alpox.dev">
+<a href="https://www.apple.com/kr/ios/ios-14/">
     <img 
-        src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/alpox.dev/"
+        src="http://img.shields.io/badge/-Ios-000000?style=flat&logo=Apple&link=https://developer.apple.com/kr/swift/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
+
 
 > **IOS App Developer**
 
