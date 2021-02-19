@@ -24,12 +24,12 @@
 </a>
 <a href="https://www.facebook.com/profile.php?id=100013386198499">
     <img 
-        src="http://img.shields.io/badge/-Facebook-DEEBFF?style=flat&logo=Facebook&link=https://www.facebook.com/profile.php?id=100013386198499"
+        src="http://img.shields.io/badge/-Facebook-BFE8FF?style=flat&logo=Facebook&link=https://www.facebook.com/profile.php?id=100013386198499"
         style="height : auto; margin-left : 10px; margin-right : 30px;"/>
 </a>
 <a href="https://mail.google.com/mail/u/1/?ogbl#inbox">
     <img 
-        src="http://img.shields.io/badge/-Gmail-DEEBFF?style=flat&logo=Gmail&link=https://mail.google.com/mail/u/1/?ogbl#inbox"
+        src="http://img.shields.io/badge/-Gmail-FFF1BF?style=flat&logo=Gmail&link=https://mail.google.com/mail/u/1/?ogbl#inbox"
         style="height : auto; margin-left : 10px; margin-right : 30px;"/>
 </a>
 
