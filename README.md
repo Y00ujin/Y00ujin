@@ -24,6 +24,6 @@
 </a>
 <a href="https://www.facebook.com/profile.php?id=100013386198499">
     <img 
-        src="http://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=Facebook&link=https://www.facebook.com/profile.php?id=100013386198499"
+        src="http://img.shields.io/badge/-Facebook-9cf?style=flat&logo=Facebook&link=https://www.facebook.com/profile.php?id=100013386198499"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
