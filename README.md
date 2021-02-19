@@ -7,7 +7,7 @@
 # 👩🏻‍💻 Main Stacks
 <a href="https://instagram.com/alpox.dev">
     <img 
-        src="http://img.shields.io/badge/-Swift-White?style=flat&logo=Swift&link=https://developer.apple.com/kr/swift/"
+        src="http://img.shields.io/badge/-Swift-FFFFF?style=flat&logo=Swift&link=https://developer.apple.com/kr/swift/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 <a href="https://instagram.com/alpox.dev">
