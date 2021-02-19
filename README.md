@@ -17,19 +17,8 @@
 </a>
 
 # 🙆🏻‍♀️ Contact Me
-<a href="https://www.instagram.com/yooooouujin/">
-    <img 
-        src="http://img.shields.io/badge/-Instagram-F1DEFF?style=flat&logo=Instagram&link=https://www.instagram.com/yooooouujin/"
-        style="height : auto; margin-left : 10px; margin-right : 30px;"/>
-</a>
-<a href="https://www.facebook.com/profile.php?id=100013386198499">
-    <img 
-        src="http://img.shields.io/badge/-Facebook-BFE8FF?style=flat&logo=Facebook&link=https://www.facebook.com/profile.php?id=100013386198499"
-        style="height : auto; margin-left : 10px; margin-right : 30px;"/>
-</a>
-<a href="https://mail.google.com/mail/u/1/?ogbl#inbox">
-    <img 
-        src="http://img.shields.io/badge/-Gmail-FFF1BF?style=flat&logo=Gmail&link=https://mail.google.com/mail/u/1/?ogbl#inbox"
-        style="height : auto; margin-left : 10px; margin-right : 30px;"/>
-</a>
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/yooooouujin/)](https://www.instagram.com/yooooouujin/) 
 
+[![Facebook Badge](https://img.shields.io/badge/-Facebook-0000ff?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100013386198499)](https://www.facebook.com/profile.php?id=100013386198499)
+
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yujingim43@gmail.com)](mailto:yujingim43@gmail.com) 
