@@ -19,7 +19,7 @@
 # 🙆🏻‍♀️ Contact Me
 <a href="https://www.instagram.com/yooooouujin/">
     <img 
-        src="http://img.shields.io/badge/-Instagram-Yellow?style=flat&logo=Instagram&link=https://www.instagram.com/yooooouujin/"
+        src="http://img.shields.io/badge/-Instagram-Black?style=flat&logo=Instagram&link=https://www.instagram.com/yooooouujin/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 <a href="https://www.facebook.com/profile.php?id=100013386198499">
