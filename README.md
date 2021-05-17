@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=BAC8FF&height=230&section=header&text=You%20Jin&fontSize=57)
+![header](https://capsule-render.vercel.app/api?type=waving&color=BAC8FF&height=230&section=header&text=You%20Jin&fontSize=57&desc=Hello%20iOS%20Developer)
 
 ### My Lang
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
