@@ -2,12 +2,12 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=BAC8FF&height=300&section=header&text=You%20Jin&fontSize=57&desc=iOS%20Developer,%20That's%20Me!)
 
 - ### 👩🏻‍💻 About me
-```Swift
+```Markdown
 - iOS 👩🏻‍💻💖💖💖💖
 ```
 
 - ### 👩🏻‍💻 How to contact me
-```Swift
+```Markdown
 - rladbwls213_@naver.com
 - s20011@gsm.hs.kr
 ```
