@@ -1,11 +1,11 @@
-- ### 👩🏻‍💻 About me
-```Markdown
-❕ I'm iOS Developer!!!
-❕ I am attending Gwangju Software Meister High School
+- ### 🛠 About me
+```
+👩🏻‍💻 I'm iOS Developer!!!
+🏫 I am attending Gwangju Software Meister High School
 ```
 
 - ### 👩🏻‍💻 How to contact me
-```Markdown
+```
 - rladbwls213_@naver.com
 - s20011@gsm.hs.kr
 ```
