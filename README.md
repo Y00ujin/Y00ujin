@@ -1,6 +1,3 @@
-
-![header](https://capsule-render.vercel.app/api?type=waving&color=BAC8FF&height=280&section=header&text=You%20Jin&fontSize=57&desc=iOS%20Developer,%20That's%20Me!)
-
 - ### 👩🏻‍💻 About me
 ```Markdown
 ❕ I'm iOS Developer!!!
