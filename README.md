@@ -10,7 +10,7 @@
 - s20011@gsm.hs.kr
 ```
 
-- ### 💖 The language that I love the most
+- ### 🥰 The language that I love the most
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Y00ujin&layout=compact&theme=dark&hide=Python)](https://github.com/anuraghazra/github-readme-stats)
 	
 - ### 👩🏻‍💻 My Lang
