@@ -1,7 +1,7 @@
 
 - ### 🛠 About me
 ```
-👩🏻‍💻 I'm iOS Developer!!!
+👩🏻‍💻 I'm iOS Developer
 🏫 I am attending Gwangju Software Meister High School
 ```
 
