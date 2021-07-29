@@ -10,4 +10,3 @@
 
 ### Channel.
 - #### Tistory. **[https://y0ujin-development-diary.tistory.com/](https://y0ujin-development-diary.tistory.com/)**
-- #### GitHub. [**https://github.com/Y00ujin**](https://github.com/Y00ujin)
