@@ -9,5 +9,6 @@
 - #### 다른 사람들의 말에 ```귀 기울이고 소통하는 것```을 좋아합니다. <br>겪어보지 못한 경험들을 경청과 소통을 통해 얻는 것은 무엇보다도 값진 것이라고 생각합니다.
 
 ### Channel.
+- #### Portfolio. **[https://y00ujin.github.io/](https://y00ujin.github.io/)**
 - #### Youtube. **[https://www.youtube.com/channel/UCbmm2rJ8wU7OiMF10hpRxfQ](https://www.youtube.com/channel/UCbmm2rJ8wU7OiMF10hpRxfQ)**
 - #### Tistory. **[https://y0ujin-development-diary.tistory.com/](https://y0ujin-development-diary.tistory.com/)**
