@@ -9,5 +9,5 @@
 <br>
 
 ### Channel.
-- #### Portfolio. **[https://y00ujin.github.io/](https://y00ujin.github.io/Youjin.github.io/)**
+- #### Portfolio. **[https://y00ujin.github.io/Youjin.github.io/](https://y00ujin.github.io/Youjin.github.io/)**
 - #### Youtube. **[https://www.youtube.com/channel/UCbmm2rJ8wU7OiMF10hpRxfQ](https://www.youtube.com/channel/UCbmm2rJ8wU7OiMF10hpRxfQ)**
